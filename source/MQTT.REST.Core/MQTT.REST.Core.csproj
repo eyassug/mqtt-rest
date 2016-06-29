@@ -40,6 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IMqttMessageParser.cs" />
+    <Compile Include="IMqttMessagePublisher.cs" />
+    <Compile Include="IMqttRestRequestHandler.cs" />
+    <Compile Include="MqttMessage.cs" />
     <Compile Include="MqttRestRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
