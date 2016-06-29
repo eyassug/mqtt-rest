@@ -1,0 +1,3 @@
+*.suo
+source/MQTT.REST.Core/obj/
+source/MQTT.REST.Core/bin/
